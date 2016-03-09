@@ -1,0 +1,15 @@
+﻿body{
+    margin-left: 30%;
+    width: 30%;
+    background: #ADD8E6;
+    text-align:center;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+.fig {
+    * margin: 0; padding: 0;
+    background-color: #7B68EE;
+      box-shadow: 13px -12px 10px 0px #808080;
+}
+}
